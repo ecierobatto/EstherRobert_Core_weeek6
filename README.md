@@ -39,3 +39,7 @@ In order to work on the above problem, you need to do the following:
 
 # Dataset
 The dataset and glossary used for this project can be found here. [https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc] 
+
+
+Below is the link to the Python Notebook where the analysis was done:
+## https://colab.research.google.com/drive/1k7b0r5SYgK7v0K45NJzT_-d3d1BwbMP9?usp=sharing
